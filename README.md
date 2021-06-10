@@ -29,6 +29,8 @@ https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Akshat%20K
 
 ## Vice President at RMI, NITT
 
+## Marketing Manager, PROBE, NITT
+
 # Certificates
 ## Neural Networks and Deep Learning
 https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20Y7UC8AKRRR4J.pdf
