@@ -28,6 +28,7 @@ https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Akshat%20K
 
 
 ## Vice President at RMI, NITT
+http://rmi.nitt.edu/members.html  -- Offical site of NITT, RMI
 
 ## Marketing Manager, PROBE, NITT
 
