@@ -3,7 +3,7 @@
 ## SELF BALANCING OBJECT FOLLOWING ROBOT
 https://github.com/kakshat1205/self-balancing-bot
 
-##PRECISION AGRICULTURAL BOT(BOT)
+## PRECISION AGRICULTURAL BOT(BOT)
 https://github.com/kakshat1205/PAB
 
 ## IOT- SMART FARM
@@ -29,6 +29,6 @@ https://github.com/kakshat1205/openquad
 ## Vice President at RMI, NITT
 
 # Certificates
-##Neural Networks and Deep Learning
+## Neural Networks and Deep Learning
 
 ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
