@@ -24,11 +24,14 @@ https://github.com/kakshat1205/openquad
 
 # POR Certificates
 ## Deputy Manager at Technical Council, NITT
+https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Akshat%20Khandelwal.pdf
 
 
 ## Vice President at RMI, NITT
 
 # Certificates
 ## Neural Networks and Deep Learning
+https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20Y7UC8AKRRR4J.pdf
 
 ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20859NHPKPHYEQ.pdf
