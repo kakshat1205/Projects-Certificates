@@ -21,6 +21,9 @@ https://github.com/kakshat1205/Genesis-19
 ## OPENQUAD
 https://github.com/kakshat1205/openquad
 
+## Seal_belt_ELR
+https://github.com/kakshat1205/Seat_Belt_ELR
+
 
 # POR Certificates
 ## Deputy Manager at Technical Council, NITT
