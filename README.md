@@ -3,7 +3,7 @@
 ## SELF BALANCING OBJECT FOLLOWING ROBOT
 https://github.com/kakshat1205/self-balancing-bot
 
-## PRECISION AGRICULTURAL BOT(BOT)
+## PRECISION AGRICULTURAL BOT(PAB)
 https://github.com/kakshat1205/PAB
 
 ## IOT- SMART FARM
@@ -21,7 +21,7 @@ https://github.com/kakshat1205/Genesis-19
 ## OPENQUAD
 https://github.com/kakshat1205/openquad
 
-## Seal_belt_ELR
+## Seal_belt_ELR - Summer Research Intern NITT
 https://github.com/kakshat1205/Seat_Belt_ELR
 
 
@@ -36,8 +36,14 @@ http://rmi.nitt.edu/members.html  -- Offical site of NITT, RMI
 ## Marketing Manager, PROBE, NITT
 
 # Certificates
+## Introduction to FPGA Design for Embedded Systems (Coursera)
+
+## Hardware Description Language for FPGA Design (Coursera)
+
 ## Neural Networks and Deep Learning
 https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20Y7UC8AKRRR4J.pdf
 
 ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20859NHPKPHYEQ.pdf
+
+
