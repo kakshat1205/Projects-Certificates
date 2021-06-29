@@ -40,6 +40,9 @@ http://rmi.nitt.edu/members.html  -- Offical site of NITT, RMI
 
 ## Hardware Description Language for FPGA Design (Coursera)
 
+## Introduction to the Internet of Things and Embedded Systems
+https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20H8X9NJYLJ85J.pdf
+
 ## Neural Networks and Deep Learning
 https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20Y7UC8AKRRR4J.pdf
 
