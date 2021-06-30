@@ -1,5 +1,5 @@
 HI, I am Akshat Khandelwal from ECE Dept of NITT.
-This REPO consists of links to some of my projects and certificates, fell free to go through the codes and suggest some changes. Thanks alot.
+This REPO consists of links to some of my projects and certificates, feel free to go through the codes and suggest some changes. Thanks alot.
 # Projects
 
 - ## [SELF BALANCING OBJECT FOLLOWING ROBOT](https://github.com/kakshat1205/self-balancing-bot)
@@ -27,7 +27,7 @@ This REPO consists of links to some of my projects and certificates, fell free t
 
 - ## Marketing Manager, PROBE, NITT
 
-# Certificates
+# Course Certificates
 - ## Introduction to FPGA Design for Embedded Systems (Coursera) -- [Certificate]
 
 - ## Hardware Description Language for FPGA Design (Coursera) -- [Certificate]
