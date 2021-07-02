@@ -1,21 +1,21 @@
 HI, I am Akshat Khandelwal from ECE Dept of NITT.
 This REPO consists of links to some of my projects and certificates, feel free to go through the codes and suggest some changes. Thanks alot.
 # Projects
-- ## :octocat: [IOT- SMART FARM](https://github.com/kakshat1205/IOT_Smart_Farm)
+## :octocat: [IOT- SMART FARM](https://github.com/kakshat1205/IOT_Smart_Farm)
 
-- ## [PRECISION AGRICULTURAL BOT(PAB)](https://github.com/kakshat1205/PAB)
+## :octocat: [PRECISION AGRICULTURAL BOT(PAB)](https://github.com/kakshat1205/PAB)
 
-- ## [FPGA DESIGN](https://github.com/kakshat1205/FPGA_Design)
+## :octocat: [FPGA DESIGN](https://github.com/kakshat1205/FPGA_Design)
 
-- ## [SELF BALANCING OBJECT FOLLOWING ROBOT](https://github.com/kakshat1205/self-balancing-bot)
+## :octocat: [SELF BALANCING OBJECT FOLLOWING ROBOT](https://github.com/kakshat1205/self-balancing-bot)
 
-- ## [TWO_STUB_BRANCHLINE_COUPLER PARAMETER CALCULATOR](https://github.com/kakshat1205/Two_Stub_Branchline-Coupler)
+## :octocat:  [TWO_STUB_BRANCHLINE_COUPLER PARAMETER CALCULATOR](https://github.com/kakshat1205/Two_Stub_Branchline-Coupler)
 
-- ## [2DOF Maze Solving Arm](https://github.com/kakshat1205/Genesis-19)
+## :octocat: [2DOF Maze Solving Arm](https://github.com/kakshat1205/Genesis-19)
 
-- ## [OPENQUAD](https://github.com/kakshat1205/openquad)
+## :octocat: [OPENQUAD](https://github.com/kakshat1205/openquad)
 
-- ## [Seal_belt_ELR - Summer Research Intern NITT](https://github.com/kakshat1205/Seat_Belt_ELR)
+## :octocat: [Seal_belt_ELR - Summer Research Intern NITT](https://github.com/kakshat1205/Seat_Belt_ELR)
 
 
 # Course Certificates
