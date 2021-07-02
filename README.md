@@ -19,13 +19,6 @@ This REPO consists of links to some of my projects and certificates, feel free t
 
 - ## [Seal_belt_ELR - Summer Research Intern NITT](https://github.com/kakshat1205/Seat_Belt_ELR)
 
-# POR Certificates
-- ## Deputy Manager at Technical Council, NITT - [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Akshat%20Khandelwal.pdf)
-
-
-- ## Vice President at RMI, NITT -- [Offical site of NITT, RMI](http://rmi.nitt.edu/members.html)  
-
-- ## Marketing Manager, PROBE, NITT
 
 # Course Certificates
 - ## Introduction to FPGA Design for Embedded Systems (Coursera) -- [Certificate]
@@ -37,6 +30,16 @@ This REPO consists of links to some of my projects and certificates, feel free t
 - ## Neural Networks and Deep Learning -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20Y7UC8AKRRR4J.pdf)
 
 - ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20859NHPKPHYEQ.pdf)
+
+
+# POR Certificates
+- ## Deputy Manager at Technical Council, NITT - [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Akshat%20Khandelwal.pdf)
+
+
+- ## Vice President at RMI, NITT -- [Offical site of NITT, RMI](http://rmi.nitt.edu/members.html)  
+
+- ## Marketing Manager, PROBE, NITT
+
 
 
 
