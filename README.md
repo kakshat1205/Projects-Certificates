@@ -1,3 +1,5 @@
+![Hi, I'm Akshat 👋 I'm a 🚀 Indian 🚀 I ❤️ Happy Hardcore ❤️](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
+
 # HI :wave:, I am Akshat Khandelwal :boy: from ECE Dept :mortar_board: of NITT. This REPO :page_with_curl: consists of links :link: to some of my projects :robot: and certificates :scroll:, feel free to go through the codes and suggest some changes. Thanks alot:v::v::v:.
 
 #
