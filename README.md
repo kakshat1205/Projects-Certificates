@@ -30,7 +30,7 @@ This REPO consists of links to some of my projects and certificates, feel free t
 # Course Certificates
 - ## Introduction to FPGA Design for Embedded Systems (Coursera) -- [Certificate]
 
-- ## Hardware Description Language for FPGA Design (Coursera) -- [Certificate]
+- ## Hardware Description Language for FPGA Design (Coursera) -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20JPCK58YCXD2S.pdf)
 
 - ## Introduction to the Internet of Things and Embedded Systems -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20H8X9NJYLJ85J.pdf)
 
