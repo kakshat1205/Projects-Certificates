@@ -19,15 +19,15 @@ This REPO consists of links to some of my projects and certificates, feel free t
 
 
 # Course Certificates
-- ## Introduction to FPGA Design for Embedded Systems (Coursera) -- [Certificate]
+:scroll: ## Introduction to FPGA Design for Embedded Systems (Coursera) -- [Certificate]
 
-- ## Hardware Description Language for FPGA Design (Coursera) -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20JPCK58YCXD2S.pdf)
+:scroll: ## Hardware Description Language for FPGA Design (Coursera) -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20JPCK58YCXD2S.pdf)
 
-- ## Introduction to the Internet of Things and Embedded Systems -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20H8X9NJYLJ85J.pdf)
+:scroll: ## Introduction to the Internet of Things and Embedded Systems -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20H8X9NJYLJ85J.pdf)
 
-- ## Neural Networks and Deep Learning -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20Y7UC8AKRRR4J.pdf)
+:scroll: ## Neural Networks and Deep Learning -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20Y7UC8AKRRR4J.pdf)
 
-- ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20859NHPKPHYEQ.pdf)
+:scroll: ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20859NHPKPHYEQ.pdf)
 
 
 # POR Certificates
