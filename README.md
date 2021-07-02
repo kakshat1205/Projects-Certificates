@@ -1,7 +1,7 @@
 HI, I am Akshat Khandelwal from ECE Dept of NITT.
 This REPO consists of links to some of my projects and certificates, feel free to go through the codes and suggest some changes. Thanks alot.
 # Projects
-- ## [IOT- SMART FARM](https://github.com/kakshat1205/IOT_Smart_Farm)
+- ## :octocat: [IOT- SMART FARM](https://github.com/kakshat1205/IOT_Smart_Farm)
 
 - ## [PRECISION AGRICULTURAL BOT(PAB)](https://github.com/kakshat1205/PAB)
 
