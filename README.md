@@ -1,22 +1,22 @@
 # HI :wave:, I am Akshat Khandelwal :boy: from ECE Dept :mortar_board: of NITT. This REPO :page_with_curl: consists of links :link: to some of my projects :robot: and certificates :scroll:, feel free to go through the codes and suggest some changes. Thanks alot:v::v::v:.
 
 #
-# :octocat: Projects
-### :octocat: [IOT- SMART FARM](https://github.com/kakshat1205/IOT_Smart_Farm)
+# :robot: Projects
+### :robot: [IOT- SMART FARM](https://github.com/kakshat1205/IOT_Smart_Farm)
 
-### :octocat: [PRECISION AGRICULTURAL BOT(PAB)](https://github.com/kakshat1205/PAB)
+### :robot: [PRECISION AGRICULTURAL BOT(PAB)](https://github.com/kakshat1205/PAB)
 
-### :octocat: [FPGA DESIGN](https://github.com/kakshat1205/FPGA_Design)
+### :robot: [FPGA DESIGN](https://github.com/kakshat1205/FPGA_Design)
 
-### :octocat: [SELF BALANCING OBJECT FOLLOWING ROBOT](https://github.com/kakshat1205/self-balancing-bot)
+### :robot: [SELF BALANCING OBJECT FOLLOWING ROBOT](https://github.com/kakshat1205/self-balancing-bot)
 
-### :octocat:  [TWO_STUB_BRANCHLINE_COUPLER PARAMETER CALCULATOR](https://github.com/kakshat1205/Two_Stub_Branchline-Coupler)
+### :robot:  [TWO_STUB_BRANCHLINE_COUPLER PARAMETER CALCULATOR](https://github.com/kakshat1205/Two_Stub_Branchline-Coupler)
 
-### :octocat: [2DOF Maze Solving Arm](https://github.com/kakshat1205/Genesis-19)
+### :robot: [2DOF Maze Solving Arm](https://github.com/kakshat1205/Genesis-19)
 
-### :octocat: [OPENQUAD](https://github.com/kakshat1205/openquad)
+### :robot: [OPENQUAD](https://github.com/kakshat1205/openquad)
 
-### :octocat: [Seal_belt_ELR - Summer Research Intern NITT](https://github.com/kakshat1205/Seat_Belt_ELR)
+### :robot: [Seal_belt_ELR - Summer Research Intern NITT](https://github.com/kakshat1205/Seat_Belt_ELR)
 
 #
 # Course Certificates
