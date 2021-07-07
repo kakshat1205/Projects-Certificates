@@ -10,7 +10,7 @@
 
 ### :robot: [SELF BALANCING OBJECT FOLLOWING ROBOT](https://github.com/kakshat1205/self-balancing-bot)
 
-### :robot:  [TWO_STUB_BRANCHLINE_COUPLER PARAMETER CALCULATOR](https://github.com/kakshat1205/Two_Stub_Branchline-Coupler)
+### :robot:  [TWO_STUB_BRANCHLINE_COUPLER SOLVER](https://github.com/kakshat1205/Two_Stub_Branchline-Coupler)
 
 ### :robot: [2DOF Maze Solving Arm](https://github.com/kakshat1205/Genesis-19)
 
