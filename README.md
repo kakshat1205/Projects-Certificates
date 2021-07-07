@@ -6,7 +6,7 @@
 
 ### :robot: [PRECISION AGRICULTURAL BOT(PAB)](https://github.com/kakshat1205/PAB)
 
-### :robot: [FPGA DESIGN](https://github.com/kakshat1205/FPGA_Design)
+### :robot: [FPGA DESIGN - 8 Bit Processor on Cyclone IV FPGA](https://github.com/kakshat1205/FPGA_Design)
 
 ### :robot: [SELF BALANCING OBJECT FOLLOWING ROBOT](https://github.com/kakshat1205/self-balancing-bot)
 
