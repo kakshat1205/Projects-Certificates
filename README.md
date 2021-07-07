@@ -1,4 +1,4 @@
-# HI :wave:, I am Akshat Khandelwal :boy: from ECE Dept :mortar_board: of NITT. This REPO :page_with_curl: consists of links :link: to some of my projects :robot: and certificates :scroll:, feel free to go through the codes and suggest some changes. Thanks alot:v::v::v:.
+# HI :wave:, I am Akshat Khandelwal :boy: from ECE Dept :mortar_board: of NITT. This REPO :page_with_curl: consists of links :link: to some of my projects :robot: and certifications :scroll:, feel free to go through the codes and suggest some changes. Thanks alot:v::v::v:.
 
 #
 # :robot: Projects :robot:
