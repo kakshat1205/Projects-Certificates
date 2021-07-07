@@ -18,6 +18,7 @@
 
 ### :robot: [Seal_belt_ELR - Summer Research Intern NITT](https://github.com/kakshat1205/Seat_Belt_ELR)
 
+### :robot: [TransfiNITTe - V2.0 Hackathon](https://github.com/kakshat1205/TransfiNITTe-V2.0_Bosons)
 #
 # Course Certificates
  ### :scroll: Introduction to FPGA Design for Embedded Systems (Coursera) -- [Certificate]
