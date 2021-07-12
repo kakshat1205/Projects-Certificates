@@ -21,7 +21,7 @@
 ### :robot: [TransfiNITTe - V2.0 Hackathon](https://github.com/kakshat1205/TransfiNITTe-V2.0_Bosons)
 #
 # Course Certificates
- ### :scroll: Introduction to FPGA Design for Embedded Systems (Coursera) -- [Certificate]
+ ### :scroll: Introduction to FPGA Design for Embedded Systems (Coursera) -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%208XYJW6NWHCDB.pdf)
 
  ### :scroll: Hardware Description Language for FPGA Design (Coursera) -- [Certificate](https://github.com/kakshat1205/Projects-Certificates/blob/main/FOLDER/Coursera%20JPCK58YCXD2S.pdf)
 
